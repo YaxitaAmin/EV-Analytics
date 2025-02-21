@@ -14,6 +14,9 @@ The electric vehicle market is experiencing exponential growth, making charging 
 
 ## Dashboard Components
 
+<img width="1122" alt="Dashboard 1" src="https://github.com/user-attachments/assets/6b5b0eb5-fbba-4d8e-9e19-5fd2520ba34f" />
+
+
 ### 1. Charger Distribution
 - Breakdown of connector types including:
   - J1772 (Level 2 Chargers)
