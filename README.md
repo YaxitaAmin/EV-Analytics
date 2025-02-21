@@ -150,11 +150,17 @@ Station status
 Why This Dataset?
 
 Official Source: Maintained by the U.S. Department of Energy
+
 Comprehensive Coverage: Includes all public and private charging stations
+
 Data Quality: Regularly verified and updated
+
 Rich Attributes: Provides detailed station characteristics
+
 Free Access: Publicly available for analysis
+
 Standard Format: Easy to process and analyze
+
 Historical Data: Includes station opening dates for trend analysis
 
 Data Processing Steps
